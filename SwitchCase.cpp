@@ -45,3 +45,5 @@ void output() {
     cout << "Status Kuota    : " << statusKuota << endl;
     cout << "----------------------------------------" << endl;
 }
+
+int main() {
