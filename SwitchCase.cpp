@@ -37,3 +37,6 @@ void pilihanJurusan() {
             statusKuota = "Error: Kode Tidak Valid";
     }
 }   
+
+// prosedur output
+void output() {
