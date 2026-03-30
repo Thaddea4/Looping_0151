@@ -31,3 +31,7 @@ int main (){
 Logika NOT 
 #include <iostream>
 using namespace std;
+
+int main(){
+    
+}
