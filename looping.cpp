@@ -26,4 +26,8 @@ int main (){
 
     cout<<"Bilangan acak while yang terakhir ="<<x<<endl;
     cout<<endl;
-    
+}
+
+Logika NOT 
+#include <iostream>
+using namespace std;
